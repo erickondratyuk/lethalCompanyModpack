@@ -1,6 +1,9 @@
 # lethalCompanyModpack
 A Modpack for lethal company for my friends
 
+To play, download zip file and copy contents to your LethalCompany/ folder 
+(i.e. *\steamapps\common\Lethal Company\)
+
 v1.0
 - FutureSavior-Hold_Scan_Button-1.1.2
 - PopleZoo-BetterItemScan-3.0.2
