@@ -41,3 +41,4 @@ v1.0
 
 TODO:
 - Add/update custom videos/music
+- HealthMetrics targets wrong BepInEx version.
